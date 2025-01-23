@@ -1,0 +1,59 @@
+{% extends 'core/base.html' %}
+
+{% block title %}Login | {% endblock %}
+
+{% block content %}
+<div class="min-h-screen bg-enfold-teal-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-md w-full space-y-8 bg-white shadow-xl rounded-xl p-8">
+        <div class="text-center">
+            <h1 class="text-3xl font-extrabold text-enfold-teal-600">Log In to Your Account</h1>
+            <p class="mt-2 text-sm text-gray-600">Welcome back to Enfold Chat</p>
+        </div>
+        
+        {% if messages %}
+            <div class="mb-4">
+                {% for message in messages %}
+                    <div class="
+                        {% if message.tags == 'success' %}bg-green-100 text-green-800
+                        {% elif message.tags == 'error' %}bg-red-100 text-red-800
+                        {% endif %} 
+                        px-4 py-2 rounded"
+                    >
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            </div>
+        {% endif %}
+        
+        <form method="post" action="." class="space-y-6">
+            {% csrf_token %}
+            <div>
+                <label for="username" class="block text-sm font-medium text-gray-700">Username</label>
+                <div class="mt-1">
+                    <input type="text" name="username" id="username" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-enfold-teal-500 focus:border-enfold-teal-500">
+                </div>
+            </div>
+            <div>
+                <label for="password" class="block text-sm font-medium text-gray-700">Password</label>
+                <div class="mt-1">
+                    <input type="password" name="password" id="password" required class="appearance-none block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm placeholder-gray-400 focus:outline-none focus:ring-enfold-teal-500 focus:border-enfold-teal-500">
+                </div>
+            </div>
+            <div>
+                <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-enfold-teal-600 hover:bg-enfold-teal-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-enfold-teal-500 transition duration-300">
+                    Log In
+                </button>
+            </div>
+        </form>
+
+        <div class="text-center mt-4">
+            <p class="text-sm text-gray-600">
+                Don't have an account? 
+                <a href="{% url 'signup' %}" class="font-medium text-enfold-teal-600 hover:text-enfold-teal-500">
+                    Sign up
+                </a>
+            </p>
+        </div>
+    </div>
+</div>
+{% endblock %}

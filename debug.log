@@ -1,0 +1,288 @@
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 96, in login_user
+    return render(request, 'core/login.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'custom_login' not found. 'custom_login' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 151781
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 96, in login_user
+    return render(request, 'core/login.html')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader.py", line 62, in render_to_string
+    return template.render(context, request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader_tags.py", line 159, in render
+    return compiled_parent._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 1008, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\base.py", line 969, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'login_user' not found. 'login_user' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 151729
+"POST /login/ HTTP/1.1" 200 5754
+"GET /signup/ HTTP/1.1" 200 7485
+"POST /signup/ HTTP/1.1" 200 8164
+"POST /signup/ HTTP/1.1" 200 7880
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /signup/ HTTP/1.1" 200 8160
+"POST /signup/ HTTP/1.1" 200 8180
+Internal Server Error: /signup/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 16, in signup
+    logger.info(f"Signup attempt with data: {request.POST}")
+    ^^^^^^
+NameError: name 'logger' is not defined
+"POST /signup/ HTTP/1.1" 500 69933
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /signup/ HTTP/1.1" 200 8157
+"GET /login/ HTTP/1.1" 200 5408
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4206
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4115
+"GET /login/ HTTP/1.1" 200 5747
+"POST /login/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4206
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\Enfold_chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /login/ HTTP/1.1" 200 5838
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 64, in login_user
+    return redirect('rooms')
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rooms' not found. 'rooms' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 88977
+"GET /login/ HTTP/1.1" 200 5838
+"GET / HTTP/1.1" 200 4206
+"GET / HTTP/1.1" 200 4206
+"GET /login/ HTTP/1.1" 200 5499
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 64, in login_user
+    return redirect('rooms')
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rooms' not found. 'rooms' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 88977
+"GET /login/ HTTP/1.1" 200 5838
+"GET / HTTP/1.1" 200 4206
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4115
+"GET /login/ HTTP/1.1" 200 5408
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 64, in login_user
+    return redirect('rooms')
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rooms' not found. 'rooms' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 88828
+"GET /login/ HTTP/1.1" 200 5747
+"GET / HTTP/1.1" 200 4115
+"GET /signup/ HTTP/1.1" 200 7485
+"GET / HTTP/1.1" 200 4115
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4115
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3227
+"GET /login/ HTTP/1.1" 200 5408
+Internal Server Error: /login/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\core\views.py", line 64, in login_user
+    return redirect('rooms')
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 49, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 180, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'rooms' not found. 'rooms' is not a valid view function or pattern name.
+"POST /login/ HTTP/1.1" 500 88523
+"GET /login/ HTTP/1.1" 200 5747
+"GET / HTTP/1.1" 200 4115
+"GET /login/ HTTP/1.1" 200 5408
+"GET / HTTP/1.1" 200 4115
