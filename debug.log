@@ -914,3 +914,1397 @@ Watching for file changes with StatReloader
 "GET /rooms/ HTTP/1.1" 200 4303
 "GET /rooms/Familly/ HTTP/1.1" 200 5420
 "GET /rooms/ HTTP/1.1" 200 4303
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4214
+"GET / HTTP/1.1" 200 4123
+"GET /login/ HTTP/1.1" 200 5846
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /login/ HTTP/1.1" 200 5416
+"POST /login/ HTTP/1.1" 200 5780
+"GET /admin/room/chatroom/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/room/chatroom/ HTTP/1.1" 200 3824
+"POST /admin/login/?next=/admin/room/chatroom/ HTTP/1.1" 302 0
+"GET /admin/room/chatroom/ HTTP/1.1" 200 9083
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 14394
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /static/admin/img/icon-viewlink.svg HTTP/1.1" 200 581
+"GET /admin/auth/user/4/change/ HTTP/1.1" 200 22597
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/js/SelectFilter2.js HTTP/1.1" 200 15502
+"GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+"GET /static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+"GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+"GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+"GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+"GET /static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+"GET /admin/auth/user/4/password/ HTTP/1.1" 200 9311
+"GET /static/admin/css/unusable_password_field.css HTTP/1.1" 200 663
+"GET /static/admin/js/unusable_password_field.js HTTP/1.1" 200 1480
+"POST /admin/auth/user/4/password/ HTTP/1.1" 200 9585
+"POST /admin/auth/user/4/password/ HTTP/1.1" 302 0
+"GET /admin/auth/user/4/change/ HTTP/1.1" 200 22733
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"POST /login/ HTTP/1.1" 200 5780
+"POST /login/ HTTP/1.1" 200 5780
+"GET /login/ HTTP/1.1" 200 5416
+"POST /login/ HTTP/1.1" 200 5780
+"GET /signup/ HTTP/1.1" 200 7493
+"POST /signup/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4214
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 5428
+"GET /rooms/Familly/ HTTP/1.1" 200 5428
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 5699
+"GET /rooms/Familly/ HTTP/1.1" 200 5699
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+"GET /login/ HTTP/1.1" 200 5416
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /login/ HTTP/1.1" 200 5766
+"POST /login/ HTTP/1.1" 200 5780
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 5699
+"GET /rooms/Familly/ HTTP/1.1" 200 5699
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 5970
+"GET /rooms/Familly/ HTTP/1.1" 200 5970
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 6246
+"GET /rooms/Familly/ HTTP/1.1" 200 6246
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4214
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3376
+"GET / HTTP/1.1" 200 4123
+"GET /login/ HTTP/1.1" 200 5846
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /login/ HTTP/1.1" 200 5416
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 7810
+Not Found: /ws/chat/Familly/
+"GET /ws/chat/Familly/ HTTP/1.1" 404 3391
+- Broken pipe from ('127.0.0.1', 49310)
+"GET /rooms/Familly/ HTTP/1.1" 200 7810
+Not Found: /ws/chat/Familly/
+"GET /ws/chat/Familly/ HTTP/1.1" 404 3391
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 8085
+Not Found: /ws/chat/Familly/
+"GET /ws/chat/Familly/ HTTP/1.1" 404 3391
+"GET /rooms/Familly/ HTTP/1.1" 200 8085
+Not Found: /ws/chat/Familly/
+"GET /ws/chat/Familly/ HTTP/1.1" 404 3391
+"GET /rooms/Familly/ HTTP/1.1" 200 8085
+Not Found: /ws/chat/Familly/
+"GET /ws/chat/Familly/ HTTP/1.1" 404 3391
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /rooms/Familly/ HTTP/1.1" 200 9438
+"GET /rooms/Familly/ HTTP/1.1" 200 9438
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 9734
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 10030
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=7 HTTP/1.1" 404 3412
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+"GET /login/ HTTP/1.1" 200 5755
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /login/ HTTP/1.1" 200 5758
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 10030
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+"GET /rooms/Familly/ HTTP/1.1" 200 10030
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+"GET /rooms/Familly/ HTTP/1.1" 200 10331
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+"GET /rooms/Familly/ HTTP/1.1" 200 10331
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=9 HTTP/1.1" 404 3412
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+"GET /rooms/Familly/ HTTP/1.1" 200 10331
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Not Found: /Familly/messages/
+"GET /Familly/messages/?last_message_id=10 HTTP/1.1" 404 3413
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4214
+"GET / HTTP/1.1" 200 4214
+"GET /login/ HTTP/1.1" 200 5846
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/ HTTP/1.1" 200 4311
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 14, in room_detail
+    room = get_object_or_404(ChatRoom, slug=slug)
+           ^^^^^^^^^^^^^^^^^
+NameError: name 'get_object_or_404' is not defined
+"GET /rooms/Familly/ HTTP/1.1" 500 73926
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 14, in room_detail
+    room = get_object_or_404(ChatRoom, slug=slug)
+           ^^^^^^^^^^^^^^^^^
+NameError: name 'get_object_or_404' is not defined
+"GET /rooms/Familly/ HTTP/1.1" 500 74189
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 26, in room_detail
+    return render(request, 'core/room_detail.html', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\shortcuts.py", line 25, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: core/room_detail.html
+"GET /rooms/Familly/ HTTP/1.1" 500 91410
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /rooms/Familly/ HTTP/1.1" 200 10641
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+"GET /rooms/Familly/ HTTP/1.1" 200 10641
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 20, in room_detail
+    return JsonResponse({
+           ^^^^^^^^^^^^
+NameError: name 'JsonResponse' is not defined
+"POST /rooms/Familly/ HTTP/1.1" 500 75068
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 20, in room_detail
+    return JsonResponse({
+           ^^^^^^^^^^^^
+NameError: name 'JsonResponse' is not defined
+"POST /rooms/Familly/ HTTP/1.1" 500 75068
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 20, in room_detail
+    return JsonResponse({
+           ^^^^^^^^^^^^
+NameError: name 'JsonResponse' is not defined
+"POST /rooms/Familly/ HTTP/1.1" 500 75068
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 20, in room_detail
+    return JsonResponse({
+           ^^^^^^^^^^^^
+NameError: name 'JsonResponse' is not defined
+"POST /rooms/Familly/ HTTP/1.1" 500 75068
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18636
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=10 HTTP/1.1" 500 18487
+"GET /logout/ HTTP/1.1" 302 0
+"GET / HTTP/1.1" 200 4123
+"GET /login/ HTTP/1.1" 200 5755
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /login/ HTTP/1.1" 200 5758
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 11813
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+"GET /rooms/Familly/ HTTP/1.1" 200 11813
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 20, in room_detail
+    return JsonResponse({
+           ^^^^^^^^^^^^
+NameError: name 'JsonResponse' is not defined
+"POST /rooms/Familly/ HTTP/1.1" 500 75068
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+"GET /rooms/Familly/ HTTP/1.1" 200 12106
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=15 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=15 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=15 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=15 HTTP/1.1" 500 18636
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Internal Server Error: /rooms/Familly/stream/
+Traceback (most recent call last):
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\.venv\Lib\site-packages\django\contrib\auth\decorators.py", line 60, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\avira\Documents\Enfold_chat\Enfold_chat\room\views.py", line 58, in message_stream
+    response = StreamingHttpResponse(event_stream(), content_type='text/event-stream')
+               ^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'StreamingHttpResponse' is not defined
+"GET /rooms/Familly/stream/?last_id=14 HTTP/1.1" 500 18487
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 4214
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3376
+"GET /login/ HTTP/1.1" 200 5846
+"POST /login/ HTTP/1.1" 302 0
+"GET /rooms/ HTTP/1.1" 200 4311
+"GET /rooms/Familly/ HTTP/1.1" 200 8673
+"POST /rooms/Familly/ HTTP/1.1" 302 0
+"GET /rooms/Familly/ HTTP/1.1" 200 8941
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 3796
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 7714
+"GET /admin/room/chatroom/ HTTP/1.1" 200 9083
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/room/chatroom/1/change/ HTTP/1.1" 200 10101
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/room/chatroom/ HTTP/1.1" 200 9083
+"GET /admin/room/chatroom/1/change/ HTTP/1.1" 200 10101
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/group/ HTTP/1.1" 200 8129
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/auth/user/ HTTP/1.1" 200 14836
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/room/chatroom/ HTTP/1.1" 200 9083
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/room/chatroom/1/change/ HTTP/1.1" 200 10101
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /admin/room/chatroom/1/history/ HTTP/1.1" 200 7035
+"GET /admin/room/chatroom/1/change/ HTTP/1.1" 200 10101
+"GET /admin/room/chatroom/ HTTP/1.1" 200 9083
+"GET /admin/auth/user/ HTTP/1.1" 200 14836
+"GET /admin/ HTTP/1.1" 200 7714
+"GET /rooms/Familly/ HTTP/1.1" 200 8941
+"GET /admin/auth/user/4/change/ HTTP/1.1" 200 22597
+"GET /admin/jsi18n/ HTTP/1.1" 200 3342
+"GET /static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+"GET /static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\Enfold_chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\Enfold_chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avira\Documents\Enfold_chat\Enfold_chat\Enfold_chat\settings.py changed, reloading.
+Watching for file changes with StatReloader
