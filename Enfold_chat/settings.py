@@ -92,6 +92,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'channels',
     'core',
+    'room',
 ]
 
 MIDDLEWARE = [
@@ -124,6 +125,12 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'Enfold_chat.wsgi.application'
 ASGI_APPLICATION = 'Enfold_chat.asgi.application'
+
+CHANNEL_LAYERS = {
+    'default': {
+        'BACKEND': 'channels.layers.InMemoryChannelLayer'
+    }
+}
 
 
 # Database

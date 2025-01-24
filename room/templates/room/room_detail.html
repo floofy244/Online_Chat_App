@@ -1,0 +1,49 @@
+{% extends 'core/base.html' %}
+
+{% block title %}{{ room.name }} | Chat Room{% endblock %}
+
+{% block content %}
+<div class="min-h-screen bg-gradient-to-r from-teal-500 to-teal-700 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
+    <div class="w-full max-w-2xl bg-white shadow-xl rounded-lg p-8">
+        <div class="text-center mb-6">
+            <h1 class="text-3xl font-extrabold text-teal-600">{{ room.name }}</h1>
+            <p class="mt-2 text-gray-600">{{ room.description }}</p>
+        </div>
+
+        <div class="border border-gray-200 rounded-lg p-4 mb-6 h-64 overflow-y-auto">
+            {% for message in messages %}
+                <div class="mb-2">
+                    <strong class="text-teal-600">{{ message.user.username }}:</strong>
+                    <span class="text-gray-700">{{ message.content }}</span>
+                    <span class="text-gray-500 text-xs"> ({{ message.timestamp|date:"H:i" }})</span>
+                </div>
+            {% empty %}
+                <div class="text-center text-gray-500">No messages yet. Be the first to send a message!</div>
+            {% endfor %}
+        </div>
+
+        <form method="post" class="flex">
+            {% csrf_token %}
+            <input 
+                type="text" 
+                name="message" 
+                placeholder="Type your message..." 
+                class="flex-grow p-2 border border-gray-300 rounded-l-md focus:outline-none focus:ring-2 focus:ring-teal-500"
+                required
+            >
+            <button 
+                type="submit" 
+                class="bg-teal-600 text-white px-4 py-2 rounded-r-md hover:bg-teal-700 transition duration-300"
+            >
+                Send
+            </button>
+        </form>
+
+        <div class="mt-4 text-center">
+            <a href="{% url 'rooms' %}" class="text-teal-600 hover:underline">
+                Back to Chat Rooms
+            </a>
+        </div>
+    </div>
+</div>
+{% endblock %}
