@@ -25,7 +25,7 @@ def signup(request):
             print("User is authenticated:", request.user.is_authenticated)
             
             # Redirect with full URL to ensure it works
-            return redirect('/')  # or return redirect(reverse('frontpage'))
+            return redirect('rooms')  # or return redirect(reverse('frontpage'))
         else:
             # If form is not valid, add error messages
             for field, errors in form.errors.items():
